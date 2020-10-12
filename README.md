@@ -2,8 +2,9 @@
  
 ## Contents
 * [Data source](https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29)
-* [Data files](Data)
 * [References](References)
+* [Data files](Data)
+* [Images](Images)
 * [Code/report](Drugs.ipynb)
  
 ## Abstract
