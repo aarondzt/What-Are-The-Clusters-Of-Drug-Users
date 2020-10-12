@@ -6,7 +6,7 @@
 * [References](References)
 * [Code/report](Drugs.ipynb)
 * [Images](Images)
-* [Presentation](Presentation)
+* [Presentation](https://docs.google.com/presentation/d/1--JX88b1WO0hTc4KWwH6YXi9OkvIZe01IEJnCd_ium0/edit?usp=sharing)
 * [YouTube](https://youtu.be/_M2cwrQhsxU)
  
 ## Abstract
