@@ -6,7 +6,7 @@
 * [Reference](References/The%20Five%20Factor%20Model%20of%20personality%20and%20evaluation%20of%20drug%20consumption%20risk.pdf)
 * [Code/report](Drugs.ipynb)
 * [Presentation](https://docs.google.com/presentation/d/1--JX88b1WO0hTc4KWwH6YXi9OkvIZe01IEJnCd_ium0/edit?usp=sharing)
-* [YouTube](https://youtu.be/_M2cwrQhsxU)
+* [YouTube](https://youtu.be/hzclaDsYoqI)
 
 ## Abstract
 Understanding the personality traits that are predictive of illegal drug usage is important for public health and guidence of policy-making. In [Fehrman et al.](https://arxiv.org/abs/1506.06297), the authors collect survey data on demographic factors, personality traits, and drug usage, and then run several machine learning models to analyze the traits that are predictive of the usage of individual and clusters of drugs. In this project, I focused on individuals who have used drugs that are widely classified as illegal (mushrooms, ecstasy, cocaine, LSD, ketamine, heroin, and crack) at least once. Very few people will take any one of these drugs in their lifetime, so the type of person who would cross that threshold would be interesting to understand.
